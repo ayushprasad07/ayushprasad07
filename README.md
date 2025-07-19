@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Prasad
 
-<!--
-**ayushprasad07/ayushprasad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | 🧠 Tech Enthusiast | 🌐 Web App Creator
 
-Here are some ideas to get you started:
+I'm a passionate full-stack web developer focused on creating clean, responsive, and performant web applications. I love turning ideas into reality using code and building projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Postman
+- **Other Interests:** AI integration, API development, Docker basics
+
+---
+
+## 📌 Featured Projects
+
+- **🌦️ ForWeather** – Real-time weather app using React & OpenWeather API  
+- **🧠 Quizilla** – A modern quiz platform built with React & API integration  
+- **🏠 TutorConnect** – Platform connecting students with tutors (MERN)  
+- **📢 Digital Notice Board** – Community notice board built using MERN stack  
+
+Check them out in my repositories! 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushprasad07&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushprasad07&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayushprasad07/)
+- 🌐 [Portfolio Website](https://ayushprasad07.github.io/portfolio) <!-- Update if different -->
+- 📫 Reach me at: **ayushprasad.work@gmail.com**
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
