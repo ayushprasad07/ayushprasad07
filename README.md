@@ -37,7 +37,7 @@ Check them out in my repositories! 🚀
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn]([www.linkedin.com/in/ayush-prasad-101859326](https://www.linkedin.com/in/ayush-prasad-101859326/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-prasad-101859326/)
 - 🌐 [Portfolio Website](https://ayushprasad07.github.io/portfolio) <!-- Update if different -->
 - 📫 Reach me at: **ayushprasad2110@gmail.com**
 
