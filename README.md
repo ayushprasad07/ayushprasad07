@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Ayush Prasad!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;Building+the+web%2C+one+component+at+a+time)](https://git.io/typing-svg) [web:15]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Problem+Solver+%26+Tech+Enthusiast;)](https://git.io/typing-svg) [web:15]
 
 ### 🚀 Passionate developer turning ideas into digital reality
 
