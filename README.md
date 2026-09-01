@@ -10,7 +10,13 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushprasad2110@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ayushprasad07&label=Profile+Views&color=667eea&style=flat)](https://github.com/ayushprasad07)
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center">
+
+```
+▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
+```
+
+</div>
 
 </div>
 
@@ -27,7 +33,13 @@
 
 > *Always open to collaborating on interesting projects — let's build something amazing together!* 🚀
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center">
+
+```
+▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
+```
+
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -58,7 +70,13 @@
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center">
+
+```
+▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
+```
+
+</div>
 
 ## 🌟 Featured Projects
 
@@ -96,7 +114,13 @@
 >
 > [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushprasad07)
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center">
+
+```
+▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
+```
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -111,7 +135,13 @@
 
 </div>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center">
+
+```
+▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
+```
+
+</div>
 
 ## 🎓 Current Focus
 
@@ -121,7 +151,13 @@
 - 👯 Open to collaborating on **AI/ML**, **full-stack**, and **security tooling** projects
 - 💬 Ask me about **React, Node.js, Flask, AWS, or application security**
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<div align="center">
+
+```
+▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
+```
+
+</div>
 
 ## 📫 Let's Connect!
 
