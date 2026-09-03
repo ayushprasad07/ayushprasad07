@@ -18,19 +18,28 @@
 
 ## 🎯 About Me
 
-👋 **Name:** Ayush Prasad
-🎓 **Role:** B.Tech CSE (AI Specialization) Student @ KIET Group of Institutions, Ghaziabad
-📍 **Location:** India 🇮🇳
-☁️ **Certified:** AWS Certified Cloud Practitioner (CLF-C02) • AWS Certified Machine Learning Engineer – Associate (MLA-C01)
-💡 **Interests:** Full-Stack Development • Cybersecurity • Cloud Architecture • Applied AI
-📚 **Currently Learning:** Networking Fundamentals • Linux Internals • Web Application Security
+👋 **Name:** Ayush Prasad<br>
+🎓 **Role:** B.Tech CSE (AI Specialization) Student @ KIET Group of Institutions, Ghaziabad<br>
+📍 **Location:** India 🇮🇳<br>
+☁️ **Certified:** AWS Certified Cloud Practitioner (CLF-C02) • AWS Certified Machine Learning Engineer – Associate (MLA-C01)<br>
+💡 **Interests:** Full-Stack Development • Cybersecurity • Cloud Architecture • Applied AI<br>
+📚 **Currently Learning:** Networking Fundamentals • Linux Internals • Web Application Security<br>
 ⚡ **Fun Fact:** I debug with `console.log` and I'm not ashamed! 🤷‍♂️
+
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding animation" width="500"/>
+
+</div>
 
 > *Thanks for dropping by! Let's build something amazing together* 🚀
 
 ```
 ▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
 ```
+
+<div align="center">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -44,11 +53,13 @@
 
 ### ☁️ Cloud & Security
 
-![Cloud & Security](https://skillicons.dev/icons?i=aws,docker,linux,kali)
+![Cloud & Security](https://skillicons.dev/icons?i=aws,docker,linux,nginx)
 
 ### 🗄️ Databases & Tools
 
 ![Databases & Tools](https://skillicons.dev/icons?i=mongodb,redis,git,github,vercel,postman)
+
+</div>
 
 ```
 ▂▃▄▅▆▇█▓▒░ ░▒▓█▇▆▅▄▃▂
@@ -62,7 +73,7 @@
 >
 > **Tech:** AI/LLMs • GitHub App • Webhooks • Background Jobs • Python • Backend APIs
 >
-> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07)
+> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07/git-read)
 
 ---
 
@@ -72,7 +83,7 @@
 >
 > **Tech:** AI/LLMs • Full-Stack Development • Python • React • APIs
 >
-> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07)
+> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07/ai-tute)
 
 ---
 
@@ -82,7 +93,7 @@
 >
 > **Tech:** Flask • MongoDB • GitHub OAuth 2.0 • SSE Streaming • CLI • RAG/LLMs
 >
-> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07)
+> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07/DevAudit)
 
 ---
 
@@ -102,7 +113,7 @@
 >
 > **Tech:** MERN Stack • JWT Authentication • Socket.io
 >
-> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07)
+> [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ayushprasad07/tutorconnect)
 
 
 ```
@@ -169,13 +180,17 @@ I'm always excited to collaborate on innovative projects, especially in **AI/ML*
 
 ### 💭 Quote of the Day
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/ayushprasad07)
+<div align="center">
+  <a href="https://github.com/ayushprasad07">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
 
-###  "The best error message is the one that never shows up." 
+### 💜 "The best error message is the one that never shows up." 💜
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&animation=twinkling)
 
